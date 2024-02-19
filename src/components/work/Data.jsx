@@ -4,6 +4,8 @@ import Work3 from "../../assets/work3.jpg"
 import Work4 from "../../assets/work4.jpg"
 import Work6 from "../../assets/work6.png"
 import Work7 from "../../assets/work7.png"
+import Work8 from "../../assets/work8.png"
+
 
 export const projectsData = [
     {
@@ -47,9 +49,15 @@ export const projectsData = [
       title: "Desarrolo Web",
       category: "Landing Page",
       demo:"https://webdelicious.netlify.app/"
+    },
+    {
+      id: 7,
+      image: Work8,
+      title: "Desarrolo Web",
+      category: "E-commerce",
+      demo:"https://hard-tech.netlify.app/index.html"
     }
   ];
-  
 export const projectsNav=[
     {
         name:'all',
