@@ -18,7 +18,7 @@ export const projectsData = [
     {
       id: 2,
       image: Work2,
-      title: "Desarrollo Web",
+      title: "E-commerce",
       category: "E-commerce",
       demo:"https://jeremiasjm.github.io/JS/"
     },
@@ -53,7 +53,7 @@ export const projectsData = [
     {
       id: 7,
       image: Work8,
-      title: "Desarrolo Web",
+      title: "E-commerce",
       category: "E-commerce",
       demo:"https://hard-tech.netlify.app/index.html"
     }
